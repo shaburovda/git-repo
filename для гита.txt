@@ -1,5 +1,5 @@
-print("hello world");
-print("hello geekbrains");
+print("hello world)))");
+print("hello geekbrains)))");
 
-print("and goodbye");
-print("hello my dear friend");
+print("and goodbye)))");
+print("hello my dear friend)))");
